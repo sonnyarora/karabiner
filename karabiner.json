@@ -266,10 +266,10 @@
               {
                 "to": [
                   {
-                    "shell_command": "open -a 'Terminal.app'"
+                    "shell_command": "open -a 'Todoist.app'"
                   }
                 ],
-                "description": "Open -a 'Terminal.app'",
+                "description": "Open -a 'Todoist.app'",
                 "type": "basic",
                 "from": {
                   "key_code": "t",

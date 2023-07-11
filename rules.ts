@@ -52,7 +52,7 @@ const rules: KarabinerRules[] = [
       s: app("Slack"),
       e: app("Superhuman"),
       n: app("Notion"),
-      t: app("Terminal"),
+      t: app("Todoist"),
       // Open todo list managed via *H*ypersonic
       h: open(
         "https://www.notion.so/stellatehq/7b33b924746647499d906c55f89d5026"
